@@ -1,0 +1,11 @@
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatchingSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TransmorphPatchingSystem.Generator.resources
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatchingSystem.csproj.GenerateResource.cache
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatchingSystem.csproj.CoreCompileInputs.cache
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\bin\x64\Release\TesseractPatcher.exe.config
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\bin\x64\Release\TesseractPatcher.exe
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\bin\x64\Release\TesseractPatcher.pdb
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatcher.Properties.Resources.resources
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatcher.exe
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatcher.pdb
+C:\Users\philt\Documents\PROJECTS\TransmorphPatchingSystem\TransmorphPatchingSystem\obj\x64\Release\TesseractPatchingSystem.csproj.AssemblyReference.cache
